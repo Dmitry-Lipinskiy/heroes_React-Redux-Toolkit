@@ -1,0 +1,1 @@
+export { HeroesAddForm } from './HeroesAddForm';
